@@ -1,6 +1,5 @@
 # linear_regression_AS_physics
-
-#physics_regression_grades.ipynb
+#physics_grades_regression.ipynb
 
 [1] What is grade threshold? 
     A grade threshold is the minimum number of marks that a candidate needs to obtain a particular grade in a paper or in a subject.
